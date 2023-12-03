@@ -1,0 +1,5 @@
+name: Scheduling
+version: 1.0.0
+antigen: Lyrica0954\Scheduling
+api:
+  - 5.0.0
